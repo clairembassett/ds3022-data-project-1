@@ -3,8 +3,5 @@ taxi_co2:
   outputs:
     dev:
       type: duckdb
-      path: ''
+      path: '/Users/clairebassett/Library/CloudStorage/OneDrive-Personal/Documents/University of Virginia/Classes/Fall 25/DS 3022/ds3022-data-project-1/emissions.duckdb'
       schema: main
-      threads: 4
-      keepalives_idle: 0
-      search_path: main
